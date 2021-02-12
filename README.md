@@ -2,6 +2,8 @@
 
 🔰 Automated LVM Partition using Python-Script.
 
+- Video Demonstration: https://lnkd.in/dBMRWSJ
+
 - 📫 How to reach me: You can connect with me on LinkedIn @vedant-kakde.
 
 ## Tools & Technologies Involved :computer:
