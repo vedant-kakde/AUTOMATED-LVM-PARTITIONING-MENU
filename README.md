@@ -1,4 +1,4 @@
-# LVM-AUTOMATED-MENU
+# AUTOMATED-LVM-PARTITIONING-MENU
 
 🔰 Automated LVM Partition using Python-Script.
 
