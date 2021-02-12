@@ -1,6 +1,6 @@
 # LVM-AUTOMATED-MENU
 
-🔰 Automating LVM Partition using Python-Script.
+🔰 Automated LVM Partition using Python-Script.
 
 - 📫 How to reach me: You can connect with me on LinkedIn @vedant-kakde.
 
